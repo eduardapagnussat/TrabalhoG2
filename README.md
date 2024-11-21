@@ -1,6 +1,6 @@
 
 # 🌤 Previsão do Tempo
-##Autor: Eduarda Pagnussat
+- Autor: Eduarda Pagnussat <br><br>
 ![Badge](https://img.shields.io/badge/Status-Finalizado-brightgreen)
 
 Uma aplicação web simples para consultar a previsão do tempo de qualquer cidade, utilizando a API **OpenWeather**. A interface é amigável, responsiva e projetada para proporcionar uma ótima experiência ao usuário.
